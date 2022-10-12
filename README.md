@@ -1,8 +1,18 @@
-### Hi there 👋
+### Thats me!
 
-Here are some informations about me:
+Hey! Nice to meet you! My name is Adrian and here I want to introduce you to myself. For further information you can visit [my Website](https://www.minomy13.de), but it's still under development.
 
-- 🔭 I’m currently working on my website
-- 🌱 I’m currently learning all about full stack web development
+#### Projects
+
+My main project at the moment is [partlib.io](https://github.com/partlib-io), which is a software for organization and catalogization of electronic components. It will go open source soon.
+
+#### Contact
+
 - 📫 Mail address: mail@minomy13.de
 - 💬 Link to my [Discord](https://discord.minomy13.de) Server
+
+#### daily.dev
+
+Last but not least you can take a look at my DevCard. I love to read about all the stuff happening in the world of Development. I normally use Medium, so please dont be confused of the amount of articles read.
+
+<img src="https://github.com/minomy13/minomy13/blob/master/devcard.svg" alt="DevCard of minomy13" />
