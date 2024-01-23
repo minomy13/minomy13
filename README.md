@@ -1,6 +1,6 @@
 ### That's me!
 
-Hey! Nice to meet you! My name is Adrian and here I want to introduce you to myself. For further information you can visit [my Website](https://www.minomy13.de), but it's still under development.
+Hey! Nice to meet you! My name is Adrian and here I want to introduce you to myself. For further information you can visit [my Website](https://www.minomy13.com), but it's still under development.
 
 #### Projects
 
