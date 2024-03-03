@@ -31,4 +31,3 @@ My main project at the moment is [partlib.io](https://github.com/partlib-io), wh
 #### Contact
 
 - 📫 Mail address: mail@minomy13.de
-- 💬 Link to my [Discord](https://discord.minomy13.de) Server
