@@ -4,7 +4,8 @@ Hey! Nice to meet you! My name is Adrian and here I want to introduce you to mys
 
 #### Projects
 
-My main project at the moment is [partlib.io](https://github.com/partlib-io), which is a software for organization and catalogization of electronic components. It will go open source soon.
+- Teedy (Document Management System) App for iOS
+- Dynamic DNS for LimaCity DNS servers
 
 #### My Stack
 ##### General
