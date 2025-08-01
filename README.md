@@ -6,8 +6,9 @@ Hey! Nice to meet you! My name is Adrian and here I want to introduce you to mys
 
 - Teedy (Document Management System) App for iOS
 - Test driven development of ray tracer based on book by Jamis buck
-- Development of interpreter based on book by Robert Nystrom
-
+- Reimagined 'nerdfetch' in Rust; faster and customizable
+- Comic book collection cataloging software with integration for major APIs (primarily [Metron](https://metron.cloud))
+  
 #### My Stack
 ##### General
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
