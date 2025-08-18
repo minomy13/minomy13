@@ -34,4 +34,4 @@ Hey! Nice to meet you! My name is Adrian and here I want to introduce you to mys
 
 #### Contact
 
-- 📫 Mail address: mail@minomy13.de
+- 📫 Mail address: mail@minomy13.com
