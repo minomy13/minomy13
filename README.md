@@ -12,7 +12,7 @@ _Contributions:_
 
 _In progress:_
 - Teedy (Document Management System) App for iOS
-- Test driven development of ray tracer based on book by Jamis Buck
+- Test driven development of [ray tracer](https://github.com/minomy13/raytracer) based on book by Jamis Buck
 - Comic book collection cataloging software with integration for major APIs
 - [bonsai-rs](https://github.com/bonsai-rs/bonsai-rs) is a terminal-based (TUI) study tracker that gamifies focus by growing a virtual bonsai tree as you study
   
