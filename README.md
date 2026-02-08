@@ -4,10 +4,17 @@ Hey! Nice to meet you! My name is Adrian and here I want to introduce you to mys
 
 #### Projects
 
+_Released:_
+- [nerdfetch-rs](https://github.com/minomy13/nerdfetch-rs) is a reimagined 'nerdfetch' in Rust; faster and customizable
+
+_Contributions:_
+- Fortran module for [starship](https://github.com/starship/starship)
+
+_In progress:_
 - Teedy (Document Management System) App for iOS
 - Test driven development of ray tracer based on book by Jamis buck
-- Reimagined 'nerdfetch' in Rust; faster and customizable
 - Comic book collection cataloging software with integration for major APIs
+- [bonsai-rs](https://github.com/bonsai-rs/bonsai-rs) is a terminal-based (TUI) study tracker that gamifies focus by growing a virtual bonsai tree as you study
   
 #### My Stack
 ##### General
