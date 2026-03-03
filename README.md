@@ -17,6 +17,8 @@ _In progress:_
 - [bonsai-rs](https://github.com/bonsai-rs/bonsai-rs) is a terminal-based (TUI) study tracker that gamifies focus by growing a virtual bonsai tree as you study
   
 #### My Stack
+![Static Badge](https://img.shields.io/badge/NO_VIBECODING-%23ff4b0f?style=for-the-badge)
+
 ##### General
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
